@@ -3,10 +3,7 @@
 
 I am a **rising Junior** majoring in **Computer Science** with an interest in **Machine Learning and AI**. I am currently **Intern as a Research Assistant** at Central Michigan University. We are working on **PINNs and PI-DeepONets**, with a focus on developing programs that simulate Physics-Informed Neural Networks and Physics-Informed DeepONets for different partial differential equations, including Burger’s 2D Equation and **Navier-Stokes Equations**. More on this can be explained **once research has been published**!
 
-## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for Machine Learning and AI, and a **special interest in Software Engineering, specifically Backend**.
 
 ## Skills
 
@@ -17,7 +14,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+    <img src="https://img.shields.io/badge/Eclipse-blue" />
+</div>
 
 ### Network
 <div>
