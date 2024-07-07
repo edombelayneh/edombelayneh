@@ -17,8 +17,8 @@ My journey in computer science has led me to develop a passion for Machine Learn
 <div>
     <img src="https://img.shields.io/badge/Java-orange" />
     <img src="https://img.shields.io/badge/Python-yellow" />
-    <img src="https://img.shields.io/badge/-Swift-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Swift-EF3B2D?&style=for-the-badge&logo=Swift&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-1679A7?&style=for-the-badge&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
