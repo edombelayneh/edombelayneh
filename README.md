@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for Machine Learn
 | Grammy's Website                              | Tableau, Python and SQL    |
 
 
-### Languages
+## Languages
 <div>
     <img src="https://img.shields.io/badge/-Java-red?&style=for-the-badge&logo=Java&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-1679A7?&style=for-the-badge&logo=Python&logoColor=white" />
