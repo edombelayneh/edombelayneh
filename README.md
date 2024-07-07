@@ -52,6 +52,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+## Organizations
+- ColorStack
+- Rewriting The Code
+- CodePath
+- Women In Tech
+- National Society of Black Engineers
