@@ -16,6 +16,8 @@ My journey in computer science has led me to develop a passion for Machine Learn
 ## Tools
 <div>
     <img src="https://img.shields.io/badge/Eclipse-blue" />
+    <img src="https://img.shields.io/badge/JupyterNotebook-Orange" />
+
 </div>
 
 ### Network
