@@ -23,8 +23,8 @@ My journey in computer science has led me to develop a passion for Machine Learn
 ## Tools
 <div>
     <img src="https://img.shields.io/badge/-Eclipse-1679A7?&style=for-the-badge&logo=Eclipse&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JupyterNotebook-orange&style=for-the-badge&logo=JupyterNotebook&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQLPad-black&style=for-the-badge&logo=SQL-Pad&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JupyterNotebook-orange&style=for-the-badge&logo=Jupyter&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MySQL-black&style=for-the-badge&logo=mysqlL&logoColor=white" />
 </div>
 
 
