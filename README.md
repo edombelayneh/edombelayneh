@@ -3,7 +3,8 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a rising Junior majoring in Computer Science with an interest in Machine Learning and AI.
+I am currently Intern as a Research Assistant at Cent5ral Michigan University. We are working on PINNs and PI-DeepONets, with a focus on developing programs that simulate Physics-Informed Neural Networks and Physics-Informed DeepONets for different partial differential equations, including Burger’s 2D Equation and Navier-Stokes Equations. More on this can be explained once research has been published!
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
