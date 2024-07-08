@@ -18,6 +18,10 @@ My journey in computer science has led me to develop a passion for Machine Learn
     <img src="https://img.shields.io/badge/-Java-red?&style=for-the-badge&logo=Java&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-1679A7?&style=for-the-badge&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Swift-EF3B2D?&style=for-the-badge&logo=Swift&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Html-orange?&style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CSS-blue?&style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C-5b9bf5?&style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C++-032d69?&style=for-the-badge&logo=cplusplus&logoColor=white" />
 </div>
 
 ## Tools
