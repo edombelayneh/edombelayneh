@@ -7,11 +7,11 @@ My journey in computer science has led me to develop a passion for Machine Learn
 
 ## Skills
 
-| Project                                       | Associated Skill           |
-|-----------------------------------------------|----------------------------|
-| Zombie Apocalypse Game - Z-Lock               | Unity - C# Scripts         |
-| Grammy's Website                              | Tableau, Python and SQL    |
-| Portfolio Website                             | HTML, CSS and JavaScript   |
+| Project                                       | Associated Skill           | Link To Repo    |
+|-----------------------------------------------|----------------------------|-----------------|
+| Zombie Apocalypse Game - Z-Lock               | Unity - C# Scripts         | <a href="https://github.com/edombelayneh/Zombie-Apocalypse-Z-Lock.git">Click-Here</a> |
+| Grammy's Website                              | Tableau, Python and SQL    |                 |
+| Portfolio Website                             | HTML, CSS and JavaScript   |                 |
 
 
 ## Languages
