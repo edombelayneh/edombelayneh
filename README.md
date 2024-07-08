@@ -41,6 +41,19 @@ My journey in computer science has led me to develop a passion for Machine Learn
     <img src="https://img.shields.io/badge/-Unity-27292b?&style=for-the-badge&logo=unity&logoColor=white" />
 </div>
 
+## Skills
+<div>
+    <img src="https://img.shields.io/badge/-Multithreading-1679A7?&style=for-the-badge&logo=Eclipse&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Neural Networks-1679A7?&style=for-the-badge&logo=Eclipse&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Physics Informed Neural Networks-1679A7?&style=for-the-badge&logo=Eclipse&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Physics Informed DeepONets-1679A7?&style=for-the-badge&logo=Eclipse&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Machine Learning-1679A7?&style=for-the-badge&logo=Eclipse&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PyTorch-1679A7?&style=for-the-badge&logo=Eclipse&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DeepXDE-1679A7?&style=for-the-badge&logo=Eclipse&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JAX-1679A7?&style=for-the-badge&logo=Eclipse&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tensor Flow-1679A7?&style=for-the-badge&logo=Eclipse&logoColor=white" />
+</div>
+
 
 ## Certifications
 <div>
