@@ -9,7 +9,7 @@ My journey in computer science has led me to develop a passion for Machine Learn
 
 | Project                                       | Associated Skill           | Link To Repo    |
 |-----------------------------------------------|----------------------------|-----------------|
-| Zombie Apocalypse Game - Z-Lock               | Unity - C# Scripts         |  <a href="https://github.com/edombelayneh/Zombie-Apocalypse-Z-Lock.git">Click-Here</a> |
+| Zombie Apocalypse Game - Z-Lock               | Unity - C# Scripts         |  <a href="https://github.com/edombelayneh/Zombie-Apocalypse-Video-Game-Z-Lock.git">Click-Here</a> |
 | Grammy's Website                              | Tableau, Python and SQL    |                 |
 | AI on Math - PINNs                            | Python (PyTorch, DeepXDE)  |                 |
 | Portfolio Website                             | HTML, CSS and JavaScript   |  <a href="https://github.com/edombelayneh/edombelayneh.github.io.git">Click-Here</a> |
