@@ -33,7 +33,7 @@ My journey in computer science has led me to develop a passion for Machine Learn
 <div>
 <img src="https://img.shields.io/badge/-Google CyberSecurity Certificate-1679A7?&style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Python Specialist | Global Tech Experience-1679A7?&style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-SQL Specialist-1679A7?&style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/-SQL Specialist | Global Tech Experience-1679A7?&style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
