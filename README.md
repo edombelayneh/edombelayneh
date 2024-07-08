@@ -24,7 +24,7 @@ My journey in computer science has led me to develop a passion for Machine Learn
 <div>
     <img src="https://img.shields.io/badge/-Eclipse-1679A7?&style=for-the-badge&logo=Eclipse&logoColor=white" />
     <img src="https://img.shields.io/badge/-JupyterNotebook-orange?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MySQL-1679A7?&style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MySQL-4c20b3?&style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/-XCode-1a529c?&style=for-the-badge&logo=xcode&logoColor=white" />
 </div>
 
@@ -32,11 +32,9 @@ My journey in computer science has led me to develop a passion for Machine Learn
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Python Specialist | Global Tech Experience-1679A7?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-CyberSecurity Certificate | Google-618dd4?&style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/-SQL Specialist | Global Tech Experience-1679A7?&style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python Specialist | Global Tech Experience-1679A7?&style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-SQL Specialist | Global Tech Experience-4c20b3?&style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 ## Organizations
