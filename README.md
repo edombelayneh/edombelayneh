@@ -29,6 +29,7 @@ My journey in computer science has led me to develop a passion for Machine Learn
     <img src="https://img.shields.io/badge/-Eclipse-1679A7?&style=for-the-badge&logo=Eclipse&logoColor=white" />
     <img src="https://img.shields.io/badge/-JupyterNotebook-orange?&style=for-the-badge&logo=Jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/-MySQL-4c20b3?&style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VSCode-4c20b3?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-XCode-1a529c?&style=for-the-badge&logo=xcode&logoColor=white" />
 </div>
 
