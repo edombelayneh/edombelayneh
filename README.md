@@ -9,11 +9,13 @@ My journey in computer science has led me to develop a passion for Machine Learn
 
 | Project                                       | Associated Skill           | Link To Repo    |
 |-----------------------------------------------|----------------------------|-----------------|
-| Zombie Apocalypse Video Game - Z-Lock         | Unity - C# Scripts         |  <a href="https://github.com/edombelayneh/Zombie-Apocalypse-Video-Game-Z-Lock.git">Click-Here</a> |
-| Grammy's Website                              | Tableau, Python and SQL    |                 |
-| AI on Math - PINNs                            | Python (PyTorch, DeepXDE)  |                 |
-| Portfolio Website                             | HTML, CSS and JavaScript   |  <a href="https://github.com/edombelayneh/edombelayneh.github.io.git">Click-Here</a> |
-| Study App with JavaFX                         | JavaFX in Eclipse          |                 |
+| Zombie Apocalypse Video Game - Z-Lock         | Unity - C# Scripts               |  <a href="https://github.com/edombelayneh/Zombie-Apocalypse-Video-Game-Z-Lock.git">Click-Here</a> |
+| Grammy's Website                              | Tableau, Python and SQL          |                 |
+| AI on Math - PINNs                            | Python (PyTorch, DeepXDE)        |                 |
+| Portfolio Website                             | HTML, CSS and JavaScript         |  <a href="https://github.com/edombelayneh/edombelayneh.github.io.git">Click-Here</a> |
+| Study App with JavaFX                         | JavaFX in Eclipse                |                 |
+| Rock-Paper-Scissors Game                      | Multi-Threading, Java in Eclipse |                 |
+
 
 
 ## Languages
