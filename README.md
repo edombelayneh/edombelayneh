@@ -1,60 +1,11 @@
 # Hello, I'm Edom!          
 <div>
-<p align="left"><a href="https://drive.google.com/file/d/1h-ei2vxYnh_Vl240Hk4TwxFyrNKYwdh2/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-0072b1?&style=for-the-badge&logoColor=white" /></a></p>  
-<p align="right"><a href="https://www.linkedin.com/in/edombelayneh"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a</p>
-</div>
-
-<div style="display: flex; justify-content: space-between;">
-  <p align="left">
-    <a href="https://drive.google.com/file/d/1h-ei2vxYnh_Vl240Hk4TwxFyrNKYwdh2/view?usp=sharing">
-      <img src="https://img.shields.io/badge/-Resume-0072b1?&style=for-the-badge&logoColor=white" />
-    </a>
-  </p>
-  <p align="right">
-    <a href="https://www.linkedin.com/in/edombelayneh">
-      <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-  </p>
-</div>
-
-
-<table width="100%" border="0">
-  <tr>
-    <td align="left">
-      <a href="https://drive.google.com/file/d/1h-ei2vxYnh_Vl240Hk4TwxFyrNKYwdh2/view?usp=sharing">
-        <img src="https://img.shields.io/badge/-Resume-0072b1?&style=for-the-badge&logoColor=white" />
-      </a>
-    </td>
-    <td align="right">
-      <a href="https://www.linkedin.com/in/edombelayneh">
-        <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-<div>
-  <span style="float: left;">
+  <span style="float: left; margin-left: 100%;">
     <a href="https://drive.google.com/file/d/1h-ei2vxYnh_Vl240Hk4TwxFyrNKYwdh2/view?usp=sharing">
       <img src="https://img.shields.io/badge/-Resume-0072b1?&style=for-the-badge&logoColor=white" />
     </a>
   </span>
-  <span style="float: right;">
-    <a href="https://www.linkedin.com/in/edombelayneh">
-      <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-  </span>
-</div>
-
-
-<div>
-  <span style="float: left; margin-right: 10px;">
-    <a href="https://drive.google.com/file/d/1h-ei2vxYnh_Vl240Hk4TwxFyrNKYwdh2/view?usp=sharing">
-      <img src="https://img.shields.io/badge/-Resume-0072b1?&style=for-the-badge&logoColor=white" />
-    </a>
-  </span>
-  <span style="float: right; margin-left: 10px;">
+  <span style="float: right; margin-right: 0%;">
     <a href="https://www.linkedin.com/in/edombelayneh">
       <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
