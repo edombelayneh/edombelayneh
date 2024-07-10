@@ -18,7 +18,7 @@
 </div>
 
 
-<table width="100%">
+<table width="400%">
   <tr>
     <td align="left">
       <a href="https://drive.google.com/file/d/1h-ei2vxYnh_Vl240Hk4TwxFyrNKYwdh2/view?usp=sharing">
