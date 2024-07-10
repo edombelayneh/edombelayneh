@@ -1,4 +1,6 @@
-# Hello, I'm Edom!          <p align="right"><a href="https://drive.google.com/file/d/1h-ei2vxYnh_Vl240Hk4TwxFyrNKYwdh2/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-0072b1?&style=for-the-badge&logoColor=white" /></a>             
+# Hello, I'm Edom!          
+
+<p align="right"><a href="https://drive.google.com/file/d/1h-ei2vxYnh_Vl240Hk4TwxFyrNKYwdh2/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-0072b1?&style=for-the-badge&logoColor=white" /></a>             
 <p align="right"><a href="https://www.linkedin.com/in/edombelayneh"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a</p>
 
 I am a **rising Junior** majoring in **Computer Science** with an interest in **Machine Learning and AI**. I currently **Intern as a Research Assistant** at Central Michigan University. We are working on **PINNs and PI-DeepONets**, with a focus on developing programs that simulate Physics-Informed Neural Networks and Physics-Informed DeepONets for different partial differential equations, including Burger’s 2D Equation and **Navier-Stokes Equations**. More on this can be explained **once research has been published**!
