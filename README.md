@@ -13,9 +13,9 @@
 </div>
 
 
-I am a **rising Junior** majoring in **Computer Science** with an interest in **Machine Learning and AI**. I currently **Intern as a Research Assistant** at Central Michigan University and a **Software Engineering Fellow at Headstarter AI**. We are working on **PINNs and PI-DeepONets**, with a focus on developing programs that simulate Physics-Informed Neural Networks and Physics-Informed DeepONets for different partial differential equations, including Burger’s 2D Equation and **Navier-Stokes Equations**. More on this can be explained **once research has been published**!
+I am a **rising Junior** majoring in **Computer Science** with an interest in **Machine Learning and AI**. I currently **Intern as a Research Assistant** at Central Michigan University. We are working on **PINNs and PI-DeepONets**, with a focus on developing programs that simulate Physics-Informed Neural Networks and Physics-Informed DeepONets for different partial differential equations, including Burger’s 2D Equation and **Navier-Stokes Equations**. More on this can be explained **once research has been published**!
 
-My journey in computer science has led me to develop a passion for Machine Learning and AI, and a **special interest in Software Engineering, specifically Backend**.
+My journey in computer science has led me to develop a passion for Machine Learning and AI, and a **special interest in Software Engineering, specifically Backend**. To further explore my interests I am also currently a **Software Engineering Fellow at Headstarter AI**. We will be building **5+ AI projects** in a span of 7 weeks, which will help me get further in my CS career!
 
 ## Skills
 
