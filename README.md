@@ -27,7 +27,7 @@ My journey in computer science has led me to develop a passion for Machine Learn
 | Portfolio Website                             | HTML, CSS and JavaScript         |  <a href="https://github.com/edombelayneh/edombelayneh.github.io.git">Click-Here</a> |
 | Study App with JavaFX                         | JavaFX in Eclipse                |                 |
 | Rock-Paper-Scissors Game                      | Multi-Threading, Java in Eclipse |  <a href="https://github.com/edombelayneh/RPS-game-with-Multithreading.git">Click-Here</a> |
-| Pantry Tracker App                            | Node.js, VS Code                 |  <a href="https://github.com/edombelayneh/Pantry-Tracker.git">Click-Here</a> |
+| Pantry Tracker App                            | Node.js, VS Code                 |  <a href="https://github.com/edombelayneh/Pantry-Tracker-App.git">Click-Here</a> |
 
 
 
