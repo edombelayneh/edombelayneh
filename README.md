@@ -21,14 +21,13 @@ My journey in computer science has led me to develop a passion for Machine Learn
 
 | Project                                       | Associated Skill                                        | Link To Repo    |
 |-----------------------------------------------|---------------------------------------------------------|-----------------|
-| Zombie Apocalypse Video Game - Z-Lock         | Unity - C# Scripts                                      |  <a href="https://github.com/edombelayneh/Zombie-Apocalypse-Video-Game-Z-Lock.git">Click-Here</a> |
-| Grammy's Website                              | Tableau, Python and SQL                                 |                 |
-| AI on Math - PINNs                            | Python (PyTorch, DeepXDE, JAX)                          |                 |
 | Portfolio Website                             | HTML, CSS and JavaScript                                |  <a href="https://github.com/edombelayneh/edombelayneh.github.io.git">Click-Here</a> |
-| Study App with JavaFX                         | JavaFX in Eclipse                                       |                 |
-| Rock-Paper-Scissors Game                      | Multi-Threading, Java in Eclipse                        |  <a href="https://github.com/edombelayneh/RPS-game-with-Multithreading.git">Click-Here</a> |
 | Smart Inventory Tracker Web App               | Node.js in VS Code, Firebase, Material UI, GroqCloud API  |  <a href="https://github.com/edombelayneh/Inventory.git">Click-Here</a> |
-
+| Zombie Apocalypse Video Game - Z-Lock         | Unity - C# Scripts                                      |  <a href="https://github.com/edombelayneh/Zombie-Apocalypse-Video-Game-Z-Lock.git">Click-Here</a> |
+| Rock-Paper-Scissors Game                      | Multi-Threading, Java in Eclipse                        |  <a href="https://github.com/edombelayneh/RPS-game-with-Multithreading.git">Click-Here</a> |
+| AI on Math - PINNs                            | Python (PyTorch, DeepXDE, JAX)                          |                 |
+| Grammy's Website                              | Tableau, Python and SQL                                 |                 |
+| Study App with JavaFX                         | JavaFX in Eclipse                                       |                 |
 
 
 ## Languages
