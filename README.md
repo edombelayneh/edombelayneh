@@ -59,15 +59,15 @@ My journey in computer science has led me to develop a passion for Machine Learn
 
 ## Skills
 <div>
-    <img src="https://img.shields.io/badge/-Multithreading-1679A7?&style=for-the-badge&logo=Eclipse&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Neural Networks-1679A7?&style=for-the-badge&logo=Eclipse&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Physics Informed Neural Networks-1679A7?&style=for-the-badge&logo=Eclipse&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Physics Informed DeepONets-1679A7?&style=for-the-badge&logo=Eclipse&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Machine Learning-1679A7?&style=for-the-badge&logo=Eclipse&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PyTorch-1679A7?&style=for-the-badge&logo=Eclipse&logoColor=white" />
-    <img src="https://img.shields.io/badge/-DeepXDE-1679A7?&style=for-the-badge&logo=Eclipse&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JAX-1679A7?&style=for-the-badge&logo=Eclipse&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tensor Flow-1679A7?&style=for-the-badge&logo=Eclipse&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Multithreading-red?&style=for-the-badge&logo=Eclipse&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Neural Networks-1679A7?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Physics Informed Neural Networks-1679A7?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Physics Informed DeepONets-1679A7?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Machine Learning-1679A7?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PyTorch-red?&style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DeepXDE-1679A7?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JAX-purple?&style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TensorFlow-orange?&style=for-the-badge&logo=tensorflow&logoColor=white" />
 </div>
 
 
