@@ -41,7 +41,7 @@ My journey in computer science has led me to develop a passion for Machine Learn
     <img src="https://img.shields.io/badge/-JavaScript-e8d82a?&style=for-the-badge&logo=javascript&logoColor=white" />
     <img src="https://img.shields.io/badge/-C-5b9bf5?&style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/-C++-032d69?&style=for-the-badge&logo=cplusplus&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Node.js-032d69?&style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Node.js-green?&style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </div>
 
 ## Tools
@@ -53,6 +53,7 @@ My journey in computer science has led me to develop a passion for Machine Learn
     <img src="https://img.shields.io/badge/-XCode-1a529c?&style=for-the-badge&logo=xcode&logoColor=white" />
     <img src="https://img.shields.io/badge/-Arduino-35969c?&style=for-the-badge&logo=arduino&logoColor=white" />
     <img src="https://img.shields.io/badge/-Unity-27292b?&style=for-the-badge&logo=unity&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Firebase-orange?&style=for-the-badge&logo=firebase&logoColor=white" />
 </div>
 
 ## Skills
