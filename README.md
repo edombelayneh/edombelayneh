@@ -57,14 +57,6 @@ My journey in computer science has led me to develop a passion for Machine Learn
     <img src="https://img.shields.io/badge/-Llama-blue?&style=for-the-badge&logo=meta&logoColor=white" />
 </div>
 
-## Libraries
-<div>
-    <img src="https://img.shields.io/badge/-PyTorch-red?&style=for-the-badge&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/-DeepXDE-1679A7?&style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JAX-purple?&style=for-the-badge&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TensorFlow-orange?&style=for-the-badge&logo=tensorflow&logoColor=white" />
-</div>
-
 ## Skills
 <div>
     <img src="https://img.shields.io/badge/-Multithreading-red?&style=for-the-badge&logo=Eclipse&logoColor=white" />
@@ -74,6 +66,13 @@ My journey in computer science has led me to develop a passion for Machine Learn
     <img src="https://img.shields.io/badge/-Machine Learning-1679A7?&style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
+## ML Libraries
+<div>
+    <img src="https://img.shields.io/badge/-PyTorch-red?&style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DeepXDE-1679A7?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JAX-purple?&style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TensorFlow-orange?&style=for-the-badge&logo=tensorflow&logoColor=white" />
+</div>
 
 ## Certifications
 <div>
