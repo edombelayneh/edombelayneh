@@ -25,7 +25,7 @@ My journey in computer science has led me to develop a passion for Machine Learn
 | Smart Inventory Tracker Web App               | Node.js in VS Code, Firebase, Material UI, GroqCloud API, Vercel  |  <a href="https://github.com/edombelayneh/Inventory.git">Click-Here</a> |
 | AI Chatbot with Mock Web App                  | Node.js in VS Code, Firebase, Material UI, GroqCloud API, Vercel  |  <a href="https://github.com/edombelayneh/AI-Chatbot.git">Click-Here</a> |
 | AI Flashcard Generator                        | Node.js in VS Code, Firebase, Material UI, GroqCloud API, Clerk, Stripe, Vercel  |  <a href="https://github.com/edombelayneh/AI-Flashcard-Generator.git">Click-Here</a> |
-| AI Rate My Professor                          | Node.js in VS Code, Firebase, Material UI, GroqCloud API, Clerk, Stripe, Vercel, RAG Pipeline  | <a href="https://github.com/edombelayneh/AI-Chatbot.git">Click-Here</a>   |
+| AI Rate My Professor                          | Node.js in VS Code, Firebase, Material UI, GroqCloud API, Clerk, Stripe, Vercel, RAG Pipeline  | <a href="https://github.com/edombelayneh/AI-RMP.git">Click-Here</a>   |
 | Zombie Apocalypse Video Game - Z-Lock         | Unity - C# Scripts                                      |  <a href="https://github.com/edombelayneh/Zombie-Apocalypse-Video-Game-Z-Lock.git">Click-Here</a> |
 | Rock-Paper-Scissors Game                      | Multi-Threading, Java in Eclipse                        |  <a href="https://github.com/edombelayneh/RPS-game-with-Multithreading.git">Click-Here</a> |
 | AI on Math - PINNs                            | Python (PyTorch, DeepXDE, JAX)                          |                 |
