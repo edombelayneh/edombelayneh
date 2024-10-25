@@ -79,6 +79,14 @@ My journey in computer science has led me to develop a passion for Machine Learn
     <img src="https://img.shields.io/badge/-TensorFlow-orange?&style=for-the-badge&logo=tensorflow&logoColor=white" />
 </div>
 
+## ML Models 
+
+<div>
+  <img src="https://img.shields.io/badge/-XGBoost-EF4E2C?&style=for-the-badge&logo=xgboost&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Random Forest-0A0A0A?&style=for-the-badge&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Decision Tree-2B2B2B?&style=for-the-badge&logoColor=white" /> 
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-CyberSecurity Certificate | Google-618dd4?&style=for-the-badge&logo=google&logoColor=white" />
