@@ -55,14 +55,15 @@ My journey in computer science has led me to develop a passion for Machine Learn
     <img src="https://img.shields.io/badge/-MySQL-4c20b3?&style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/-VSCode-364559?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-XCode-1a529c?&style=for-the-badge&logo=xcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google Colab-yellow?&style=for-the-badge&logo=googleColab&logoColor=white" />
     <img src="https://img.shields.io/badge/-Arduino-35969c?&style=for-the-badge&logo=arduino&logoColor=white" />
     <img src="https://img.shields.io/badge/-Unity-27292b?&style=for-the-badge&logo=unity&logoColor=white" />
     <img src="https://img.shields.io/badge/-Firebase-orange?&style=for-the-badge&logo=firebase&logoColor=white" />
     <img src="https://img.shields.io/badge/-Llama-blue?&style=for-the-badge&logo=meta&logoColor=white" />
     <img src="https://img.shields.io/badge/-Stripe-blue?&style=for-the-badge&logo=stripe&logoColor=white" />
     <img src="https://img.shields.io/badge/-Clerk-0a0a0a?&style=for-the-badge&logo=clerk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Replit-0a0a0a?&style=for-the-badge&logo=replit&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Google Colab-0a0a0a?&style=for-the-badge&logo=googleColab&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Replit-orange?&style=for-the-badge&logo=replit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Convex-red?&style=for-the-badge&logo=convex&logoColor=white" />
 </div>
 
 ## Skills
