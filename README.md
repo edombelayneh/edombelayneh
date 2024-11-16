@@ -23,6 +23,7 @@ My journey in computer science has led me to develop a passion for Machine Learn
 |-----------------------------------------------|---------------------------------------------------------|-----------------|
 | Portfolio Website                             | HTML, CSS and JavaScript                                |  <a href="https://github.com/edombelayneh/edombelayneh.github.io.git">Click-Here</a> |
 | Smart Inventory Tracker Web App               | Node.js in VS Code, Firebase, Material UI, GroqCloud API, Vercel  |  <a href="https://github.com/edombelayneh/Inventory.git">Click-Here</a> |
+| Brain Tumor Classification ML Models          |                                 |  <a href="https://github.com/edombelayneh/BrainTumorClassification.git">Click-Here</a> |
 | AiQuickDoc FullStack Web App                  | Node.js in VS Code, Firebase, Material UI, GroqCloud API, Clerk, Stripe, Vercel, RAG Pipeline  | <a href="https://github.com/edombelayneh/AiQuickDoc.git">Click-Here</a>   |
 | Customer Churn Prediction                     | Google Colab & Replit, Streamlit, Python, ML models     | <a href="https://github.com/edombelayneh/ChurnForBankCustomers.git">Click-Here</a>   |
 | AI Chatbot with Mock Web App                  | Node.js in VS Code, Firebase, Material UI, GroqCloud API, Vercel  |  <a href="https://github.com/edombelayneh/AI-Chatbot.git">Click-Here</a> |
