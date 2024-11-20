@@ -6,8 +6,13 @@
     </a>
   </span>
   <span style="float: right">
-    <a href="https://drive.google.com/file/d/1h-ei2vxYnh_Vl240Hk4TwxFyrNKYwdh2/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/14aU7OK86pAonGTiMJpT2TfKBtYv81LHS/view?usp=sharing" target="_blank">
       <img src="https://img.shields.io/badge/-Resume-f2336f?&style=for-the-badge&logoColor=white" />
+    </a>
+  </span>
+  <span style="float: right">
+    <a href="http://www.edombelayneh.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Portfolio-f2336f?&style=for-the-badge&logoColor=white" />
     </a>
   </span>
 </div>
