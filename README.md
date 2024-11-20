@@ -12,7 +12,7 @@
   </span>
   <span style="float: right">
     <a href="http://www.edombelayneh.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Portfolio-f2336f?&style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Portfolio-brown?&style=for-the-badge&logoColor=white" />
     </a>
   </span>
 </div>
@@ -26,7 +26,6 @@ My journey in computer science has led me to develop a passion for Machine Learn
 
 | Project                                       | Associated Skill                                        | Link To Repo    |
 |-----------------------------------------------|---------------------------------------------------------|-----------------|
-| Portfolio Website                             | HTML, CSS and JavaScript                                |  <a href="https://github.com/edombelayneh/edombelayneh.github.io.git">Click-Here</a> |
 | Smart Inventory Tracker Web App               | Node.js in VS Code, Firebase, Material UI, GroqCloud API, Vercel  |  <a href="https://github.com/edombelayneh/Inventory.git">Click-Here</a> |
 | Brain Tumor Classification ML Models          | Python in Google Colab, Streamlit App, Xception ML Model, Inception ML Model, CNN Models|  <a href="https://github.com/edombelayneh/BrainTumorClassification.git">Click-Here</a> |
 | AiQuickDoc FullStack Web App                  | Node.js in VS Code, Firebase, Material UI, GroqCloud API, Clerk, Stripe, Vercel, RAG Pipeline  | <a href="https://github.com/edombelayneh/AiQuickDoc.git">Click-Here</a>   |
