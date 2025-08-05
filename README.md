@@ -18,9 +18,9 @@
 </div>
 
 
-I am a **rising Junior** majoring in **Computer Science** with an interest in **Machine Learning and AI**. I currently **Intern as a Research Assistant** at Central Michigan University. We are working on **PINNs and PI-DeepONets**, with a focus on developing programs that simulate Physics-Informed Neural Networks and Physics-Informed DeepONets for different partial differential equations, including Burger’s 2D Equation and **Navier-Stokes Equations**. More on this can be explained **once research has been published**!
+I’m a **rising senior** majoring in Computer Science with strong interests in Machine Learning, AI, and Backend Software Engineering. I’m currently interning at Qualcomm in San Diego as a Software Engineering Intern on the Camera Tuning and Image Quality team. My work focuses on building internal tools for image quality automation, including dynamic dashboards with Next.js, automated Jenkins pipelines, and real-time IQ metric access through a Linux-based Apache server. I also developed a Python script using OpenCV to automate image analysis for camera tuning evaluations.
 
-My journey in computer science has led me to develop a passion for Machine Learning and AI, and a **special interest in Software Engineering, specifically Backend**. To further explore my interests I am also currently a **Software Engineering Fellow at Headstarter AI**. We will be building **5+ AI projects** in a span of 7 weeks, which will help me get further in my CS career!
+Previously, I worked as a Research Assistant at Central Michigan University, exploring Physics-Informed Neural Networks (PINNs) and Physics-Informed DeepONets (PI-DeepONets) for solving complex partial differential equations like Burger’s 2D Equation and the Navier-Stokes Equations. I’m also a Software Engineering Fellow at Headstarter AI, where I’ve built several AI-focused projects that strengthened my backend and ML development skills. These experiences continue to fuel my passion for building impactful, intelligent systems.
 
 ## Skills
 
