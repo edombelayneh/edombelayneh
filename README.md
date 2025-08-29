@@ -26,6 +26,8 @@ Previously, I worked as a Research Assistant at Central Michigan University, exp
 
 | Project                                       | Associated Skill                                        | Link To Repo    |
 |-----------------------------------------------|---------------------------------------------------------|-----------------|
+| Qlippy AI Productivity Fullstack App          | Node.js in VS Code, Convex, Material UI, Sanpdragon     |  <a href="https://github.com/edombelayneh/Qlippy.git">Click-Here</a> |
+| UpdateMe - Social Media App                   | Swift in XCode, Firebase                                |  <a href="https://github.com/edombelayneh/UpdateMe.git">Click-Here</a> |
 | Smart Inventory Tracker Web App               | Node.js in VS Code, Firebase, Material UI, GroqCloud API, Vercel  |  <a href="https://github.com/edombelayneh/Inventory.git">Click-Here</a> |
 | Brain Tumor Classification ML Models          | Python in Google Colab, Streamlit App, Xception ML Model, Inception ML Model, CNN Models|  <a href="https://github.com/edombelayneh/BrainTumorClassification.git">Click-Here</a> |
 | GitHub Repository Analysis - Repo Chat        | Python in Google Colab, Streamlit App, Pinecone, Langchain, Groq, OpenAI, Github |  <a href="https://github.com/edombelayneh/GithubRepoChat.git">Click-Here</a> |
