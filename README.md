@@ -18,15 +18,17 @@
 </div>
 
 
-I’m a **rising senior** majoring in Computer Science with strong interests in Machine Learning, AI, and Backend Software Engineering. I’m currently interning at Qualcomm in San Diego as a Software Engineering Intern on the Camera Tuning and Image Quality team. My work focuses on building internal tools for image quality automation, including dynamic dashboards with Next.js, automated Jenkins pipelines, and real-time IQ metric access through a Linux-based Apache server. I also developed a Python script using OpenCV to automate image analysis for camera tuning evaluations.
+I’m a **rising senior** majoring in Computer Science with strong interests in Machine Learning, AI, and Backend Software Engineering, I enjoy building intelligent systems that are both practical and scalable. This past summer, I worked as a Software Engineering Intern at Qualcomm in San Diego, where I focused on building internal automation tools for the Camera Tuning and Image Quality team. My work included developing a dynamic Next.js dashboard to streamline debugging, automating Jenkins pipelines for CI/CD, and using OpenCV to automate parts of the camera evaluation process.
 
-Previously, I worked as a Research Assistant at Central Michigan University, exploring Physics-Informed Neural Networks (PINNs) and Physics-Informed DeepONets (PI-DeepONets) for solving complex partial differential equations like Burger’s 2D Equation and the Navier-Stokes Equations. I’m also a Software Engineering Fellow at Headstarter AI, where I’ve built several AI-focused projects that strengthened my backend and ML development skills. These experiences continue to fuel my passion for building impactful, intelligent systems.
+Beyond industry, I’ve explored AI research through NSF-funded work at Central Michigan University, where I implemented Physics-Informed Neural Networks and DeepONets to solve complex fluid dynamics problems more efficiently than traditional methods. I’ve also expanded my applied skills as a Headstarter AI Fellow, where I built and deployed multiple AI-powered applications and guided peers through backend and full-stack development.
+
+On GitHub, you’ll find projects that reflect my interests at the intersection of AI and software engineering. I’m excited about building impactful tools that make technology more intuitive, efficient, and human-centered.
 
 ## Skills
 
 | Project                                       | Associated Skill                                        | Link To Repo    |
 |-----------------------------------------------|---------------------------------------------------------|-----------------|
-| Qlippy AI Productivity Fullstack App          | Node.js in VS Code, Convex, Material UI, Sanpdragon     |  <a href="https://github.com/edombelayneh/Qlippy.git">Click-Here</a> |
+| Qlippy - AI Productivity Fullstack App          | Node.js in VS Code, Convex, Material UI, Sanpdragon     |  <a href="https://github.com/edombelayneh/Qlippy.git">Click-Here</a> |
 | UpdateMe - Social Media App                   | Swift in XCode, Firebase                                |  <a href="https://github.com/edombelayneh/UpdateMe.git">Click-Here</a> |
 | Smart Inventory Tracker Web App               | Node.js in VS Code, Firebase, Material UI, GroqCloud API, Vercel  |  <a href="https://github.com/edombelayneh/Inventory.git">Click-Here</a> |
 | Brain Tumor Classification ML Models          | Python in Google Colab, Streamlit App, Xception ML Model, Inception ML Model, CNN Models|  <a href="https://github.com/edombelayneh/BrainTumorClassification.git">Click-Here</a> |
