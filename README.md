@@ -6,7 +6,7 @@
     </a>
   </span>
   <span style="float: right">
-    <a href="https://drive.google.com/file/d/1I9iBjYGZt739r2RP1eTgyl1TQwja8zl5/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/143r3nzPZiW7pZ9UyUvHilGzeBRNO4n1T/view?usp=sharing" target="_blank">
       <img src="https://img.shields.io/badge/-Resume-f2336f?&style=for-the-badge&logoColor=white" />
     </a>
   </span>
